@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Md Mostofa Shahid</h1>
 <h3 align="center">I'm Full Stack Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-working-on-pc-3917154-3262957.mp4?h=700"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-s-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-s-cse" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=twitter&style=for-the-badge" alt="mostofa_s_cse" /></a> </p>
