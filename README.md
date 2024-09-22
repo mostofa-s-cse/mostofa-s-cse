@@ -3,9 +3,6 @@
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-s-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-s-cse" /> </p>
-
 <p align="left"> <a href="https://x.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=x&style=for-the-badge" alt="mostofa_s_cse"  </p>
 
 - 🔭 I’m currently working on <br>
@@ -90,11 +87,12 @@ I once implemented a feature in my web application based on a quirky idea that c
 
 
 # 📊 GitHub Stats:
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostofa-s-cse&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="32%" height="195px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-s-cse&theme=dracula&hide_border=false" width="32%" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa-s-cse&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32%" height="195px"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostofa-s-cse&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" style="width: 30%; height: auto; min-width: 250px; margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-s-cse&theme=dracula&hide_border=false" style="width: 30%; height: auto; min-width: 250px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa-s-cse&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 30%; height: auto; min-width: 250px; margin: 10px;"/>
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mostofa-s-cse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
