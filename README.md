@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostofa-s-cse" alt="mostofa-s-cse" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=twitter&style=for-the-badge" alt="mostofa_s_cse" /></a> </p>
+<p align="left"> <a href="https://x.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=twitter&style=for-the-badge" alt="mostofa_s_cse" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [portfolio.demo](portfolio.demo)
 
