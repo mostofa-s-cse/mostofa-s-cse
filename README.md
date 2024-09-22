@@ -12,23 +12,24 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Laravel , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-s-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-s-cse" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostofa-s-cse" alt="mostofa-s-cse" /></a> </p>
-
-<p align="left"> <a href="https://x.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=twitter&style=for-the-badge" alt="mostofa_s_cse" /></a> </p>
-
+- 📫 How to reach me **mostofa.s.cse@gmail.com**
+  
 - 👨‍💻 All of my projects are available at [portfolio.demo](portfolio.demo)
 
 - 📝 I regularly write articles on [mostofa.blog](mostofa.blog)
 
 - 📄 Know about my experiences [resume.link](resume.link)
+
+- ⚡ Fun fact **I am Funny**
+
+<div style="display: flex; gap: 20px;">
+ <img src="https://komarev.com/ghpvc/?username=mostofa-s-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-s-cse" />
+</div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostofa-s-cse" alt="mostofa-s-cse" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
