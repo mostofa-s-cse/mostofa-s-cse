@@ -1,15 +1,10 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MD.MOSTOFA SHAHID</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://x.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=x&style=for-the-badge" alt="mostofa_s_cse"  </p>
-
+<img align="right" style="margin-bottom:10px;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
 - 🔭 I’m currently working on <br>
 Developing a MERN (MongoDB, Express.js, React.js, Node.js) stack web application, while also leveraging Laravel (PHP) and Next.js to create a seamless and efficient user experience across both frontend and backend technologies.
-
-- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about <br>
 Anything related to  full-stack development, from frontend technologies like React.js and Next.js to backend solutions with Node.js, Express.js, and Laravel. I'm happy to discuss database design, API integrations, and deployment strategies
@@ -25,6 +20,8 @@ Anything related to  full-stack development, from frontend technologies like Rea
 - ⚡ Fun fact <br> 
 I once implemented a feature in my web application based on a quirky idea that came to me during a late-night coding session. It turned out to be a user favorite, proving that creative coding can sometimes lead to unexpected and delightful outcomes!
 
+<p align="left"> <a href="https://x.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=x&style=for-the-badge" alt="mostofa_s_cse"  </p>
+  
 <div style="display: flex; gap: 20px;">
  <img src="https://komarev.com/ghpvc/?username=mostofa-s-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-s-cse" />
 </div>
@@ -39,8 +36,6 @@ I once implemented a feature in my web application based on a quirky idea that c
 
 <h3 align="left">💻 Tech Stack:</h3> <br>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -84,8 +79,8 @@ I once implemented a feature in my web application based on a quirky idea that c
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<h3 align="left">📊 GitHub Stats: </h3> <br>
 
-# 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <!-- First two items side by side -->
   <div style="display: flex; flex: 1; justify-content: space-around; flex-wrap: wrap;">
@@ -99,7 +94,6 @@ I once implemented a feature in my web application based on a quirky idea that c
   </div>
 </div>
 
+<h3 align="left">🏆 GitHub Trophies </h3> <br>
 
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mostofa-s-cse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
