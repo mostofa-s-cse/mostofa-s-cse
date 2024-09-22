@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://mostofa-s-cse.io)
 <h1 align="center">Hi 👋, I'm MD.MOSTOFA SHAHID</h1>
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <img align="right" style="margin-bottom:10px;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -81,19 +81,13 @@ I once implemented a feature in my web application based on a quirky idea that c
 
 <h3 align="left">📊 GitHub Stats: </h3> <br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <!-- First two items side by side -->
-  <div style="display: flex; flex: 1; justify-content: space-around; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mostofa-s-cse&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" style="width: 45%; height: auto; min-width: 250px; margin: 10px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-s-cse&theme=dracula&hide_border=false" style="width: 45%; height: auto; min-width: 250px; margin: 10px;"/>
-  </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-s-cse&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mostofa-s-cse" /></p>
 
-  <!-- One item full width underneath -->
-  <div style="flex-basis: 100%; display: flex; justify-content: center; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa-s-cse&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </div>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostofa-s-cse&show_icons=true&locale=en&theme=tokyonight" alt="mostofa-s-cse" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-s-cse&&theme=tokyonight" alt="mostofa-s-cse" /></p>
+
 
 <h3 align="left">🏆 GitHub Trophies </h3> <br>
 
-![](https://github-profile-trophy.vercel.app/?username=mostofa-s-cse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostofa-s-cse" alt="mostofa-s-cse" /></a> </p>
