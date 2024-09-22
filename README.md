@@ -3,9 +3,8 @@
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- <p align="left"> <a href="https://x.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=x&style=for-the-badge" alt="mostofa_s_cse"  </p>
-  
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-s-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-s-cse" /> </p>
+<p align="left"> <a href="https://x.com/mostofa_s_cse" target="blank"><img src="https://img.shields.io/twitter/follow/mostofa_s_cse?logo=x&style=for-the-badge" alt="mostofa_s_cse"  </p>
+
   
 - 🔭 I’m currently working on <br>
 Developing a MERN (MongoDB, Express.js, React.js, Node.js) stack web application, while also leveraging Laravel (PHP) and Next.js to create a seamless and efficient user experience across both frontend and backend technologies.
@@ -38,7 +37,8 @@ I once implemented a feature in my web application based on a quirky idea that c
 <a href="https://www.youtube.com/c/codemasterprobd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codemasterprobd" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left">💻 Tech Stack:</h3> <br>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
