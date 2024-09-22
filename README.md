@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Laravel , MEARN**
+- 💬 Ask me about **Anything related to  full-stack development, from frontend technologies like React.js and Next.js to backend solutions with Node.js, Express.js, and Laravel. I'm happy to discuss database design, API integrations, and deployment strategies**
 
 - 📫 How to reach me **mostofa.s.cse@gmail.com**
   
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [resume.link](resume.link)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I once implemented a feature in my web application based on a quirky idea that came to me during a late-night coding session. It turned out to be a user favorite, proving that creative coding can sometimes lead to unexpected and delightful outcomes!**
 
 <div style="display: flex; gap: 20px;">
  <img src="https://komarev.com/ghpvc/?username=mostofa-s-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-s-cse" />
