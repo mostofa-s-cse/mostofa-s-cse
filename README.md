@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://mostofa-s-cse.io)
 
 <h1 align="center">Hi 👋, I'm Md Mostofa Shahid</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | JavaScript, Laravel, React, Node.js</h3>
+<h3 align="center">🚀 Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:mostofa.s.cse@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Md Mostofa Shahid** – a passionate and performance-focused **Full Stack Software Engineer** from **Bangladesh 🇧🇩**.  
+Hi, I'm **Md Mostofa Shahid** – a passionate and performance-focused **Software Engineer** | **Full Stack Developer**.  
 I love transforming complex problems into scalable, elegant solutions. Whether building responsive UIs or architecting secure APIs, I always strive for clean code, optimal performance, and an intuitive user experience.
 
 - 💼 Currently working at **Nextbit Studio** as a **Software Engineer**
