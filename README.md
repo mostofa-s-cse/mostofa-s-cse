@@ -119,7 +119,7 @@ I love transforming complex problems into scalable, elegant solutions. Whether b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-s-cse&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-s-cse&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ I love transforming complex problems into scalable, elegant solutions. Whether b
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-s-cse&&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-s-cse&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -136,11 +136,9 @@ I love transforming complex problems into scalable, elegant solutions. Whether b
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mostofa-s-cse&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mostofa-s-cse&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
-
----
 
 ## 📫 Contact Me
 
