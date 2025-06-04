@@ -1,6 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://mostofa-s-cse.io)
 
-
 <h1 align="center">Hi 👋, I'm Md Mostofa Shahid</h1>
 <h3 align="center">🚀 Full Stack Software Engineer | JavaScript, Laravel, React, Node.js</h3>
 
@@ -18,10 +17,32 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Software Engineer @ Nextbit Studio  
-- 🔧 Tech Stack: React, Next.js, Node.js, Laravel, Tailwind, Prisma, MySQL  
-- ⚡ Passionate about performance, scalable systems, and clean code  
-- 📄 [View My Resume](https://github.com/mostofa-s-cse/mostofa-s-cse/blob/main/MD%20Mostofa%20Shahid%20CV%20Resume.pdf)
+Hi, I'm **Md Mostofa Shahid** – a passionate and performance-focused **Full Stack Software Engineer** from **Bangladesh 🇧🇩**.  
+I love transforming complex problems into scalable, elegant solutions. Whether building responsive UIs or architecting secure APIs, I always strive for clean code, optimal performance, and an intuitive user experience.
+
+- 💼 Currently working at **Nextbit Studio** as a **Software Engineer**
+- ⚙️ Skilled in **JavaScript, TypeScript, PHP, React, Next.js, Node.js, Laravel, Tailwind CSS, MySQL**, and more
+- 🚀 Experienced in building **SaaS platforms, ERP systems, and government portals**
+- 🧠 Strong understanding of **REST APIs, CI/CD, Linux servers, DevOps practices**
+- 🛠️ Passionate about writing **clean, reusable, and well-documented code**
+
+---
+
+## 💼 Work Experience
+
+**Software Engineer**  
+*Nextbit Studio (Jun 2024 – Present)*  
+- Built scalable UIs with **React.js**, **Next.js**, **Tailwind CSS**  
+- Developed RESTful APIs with **Laravel (PHP)**  
+- Managed deployments using **Linux (Ubuntu, Nginx)**  
+- Optimized **MySQL** and **SQLite** databases
+
+**Full Stack Developer**  
+*Projmantech (Oct 2022 – Jun 2024)*  
+- Created dynamic UIs using **React.js**, **Next.js**, and **Tailwind CSS**  
+- Developed backends with **Node.js** and **Laravel**  
+- Integrated **SSLCommerz** payment gateway  
+- Managed CI/CD pipelines and code reviews
 
 ---
 
@@ -37,7 +58,7 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -55,6 +76,12 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### DevOps & Platforms
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -64,12 +91,6 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Design
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -82,28 +103,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostofa-s-cse&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-s-cse&theme=radical" alt="streak" />
-</p>
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [mostofa.s.cse@gmail.com](mailto:mostofa.s.cse@gmail.com)  
-- 🔗 LinkedIn: [md-mostofa-shahid](https://www.linkedin.com/in/md-mostofa-shahid/)  
-- 🖥 GitHub: [mostofa-s-cse](https://github.com/mostofa-s-cse)
-
----
-
-> “Crafting digital experiences that scale beautifully and perform reliably.”
-
----
-
-### 🧠 Key Projects
+## 🧠 Key Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
@@ -139,3 +139,15 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mostofa-s-cse&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
   </a>
 </p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [mostofa.s.cse@gmail.com](mailto:mostofa.s.cse@gmail.com)  
+- 🔗 LinkedIn: [md-mostofa-shahid](https://www.linkedin.com/in/md-mostofa-shahid/)  
+- 🖥 GitHub: [mostofa-s-cse](https://github.com/mostofa-s-cse)
+
+---
+
+> “Crafting digital experiences that scale beautifully and perform reliably.”
